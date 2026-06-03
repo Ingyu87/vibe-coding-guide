@@ -1,0 +1,27 @@
+# PDF 원본 (로컬 보관, GitHub 제외)
+02_출처/*.pdf
+
+# PPTX 원본 (MD 변환본 사용, GitHub 제외)
+02_출처/*.pptx
+
+# Word 임시 파일
+~$*.docx
+
+# 대용량 사전조사 원본 (로컬 보관)
+01_사전조사/(사전준비) 자료집 개발 브레인스토밍 및 기초자료조사3.docx
+
+# PDF/PPTX 이미지 추출물 (용량 큼, 분석 요약 MD만 GitHub 반영)
+02_출처_MD/_empty_page_images/**/*.jpg
+02_출처_MD/_empty_page_images/**/*.jpeg
+02_출처_MD/_empty_page_images/**/*.png
+02_출처_MD/_pptx_images/**/*.jpg
+02_출처_MD/_pptx_images/**/*.jpeg
+02_출처_MD/_pptx_images/**/*.png
+
+# 시스템 파일
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# 편집기
+.vscode/
