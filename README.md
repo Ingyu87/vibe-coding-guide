@@ -94,7 +94,7 @@ toc_detail.md에서 [담당 파트] 섹션 확인해줘.
 3. toc_detail.md에서 담당 파트 섹션 확인
 4. 사전조사_출처_분석표.md에서 참고자료 확인
 5. 에이전트로 03_원고/[담당파일].md 초안 작성
-6. 초안 검토·수정
+6. 초안을 바탕으로 집필자가 직접 내용 작성·완성
 7. 완성본 Google Docs에 붙여넣기 제출
 ```
 
@@ -104,8 +104,3 @@ toc_detail.md에서 [담당 파트] 섹션 확인해줘.
 
 > 📎 [Google Docs 원고 제출 링크](https://docs.google.com/document/d/1qil61TwWiDF42mocn9VMr852yjHRLjzO8YAvrAB3_yo/edit?tab=t.7o4p2ffbcag6)
 
----
-
-## 문의
-
-백인규
