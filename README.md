@@ -78,7 +78,7 @@
 
 작성 완료 후 Google Docs에 붙여넣기하여 제출합니다.
 
-> 📎 Google Docs 링크: *(추후 공유 예정)*
+> 📎 [Google Docs 원고 제출 링크](https://docs.google.com/document/d/1qil61TwWiDF42mocn9VMr852yjHRLjzO8YAvrAB3_yo/edit?tab=t.7o4p2ffbcag6)
 
 ---
 
